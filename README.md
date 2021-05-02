@@ -14,3 +14,6 @@ SOS:
 
 1. Long presss icon to update emergency contact
 2. Press icon to toggle SOS
+
+Due to errors in Google Maps API, as mentioned in the submission. We were not able to complete the project on time. The apps act as standalone for now. 
+We will work on this beyond the timeframe of the hackathon and integrate the apps and complete it when the errors are resolved.
